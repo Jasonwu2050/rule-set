@@ -1,0 +1,15 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain": [
+        "ua5v.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        ".ua5v.com"
+      ]
+    }
+  ]
+}
